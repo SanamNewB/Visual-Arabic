@@ -32,11 +32,11 @@
         android:background="@color/category_colors"
         android:text="@string/category_colors" />
 
-    <TextView
+<!--     <TextView
         android:id="@+id/things"
         style="@style/CategoryStyle"
         android:background="@color/category_things"
-        android:text="@string/category_things" />
+        android:text="@string/category_things" /> -->
 
     <TextView
         android:id="@+id/animals"
